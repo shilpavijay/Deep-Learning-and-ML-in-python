@@ -3,7 +3,7 @@ import numpy as np
 num = np.random.randn(5)
 expa = np.exp(num)
 
-ans = expa / expa.sum()   #probabilily (ans) adds up to 1
+ans = expa / expa.sum()   #probability (ans) adds up to 1
 
 
 #100 rows of 5 cols each:
