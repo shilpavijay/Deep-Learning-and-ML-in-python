@@ -1,3 +1,10 @@
+Machine Learning in Python
+----------------------------
+
+I am using the scikit-learn library to implement various Machine Learning Algorithms
+
+1. [Linear Regression](Machine-Learning/linearReg.py)
+
 Deep Learning in Python
 ----------------------------
 
