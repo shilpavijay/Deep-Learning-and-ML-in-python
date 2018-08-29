@@ -5,6 +5,8 @@ I am using the scikit-learn library to implement various Machine Learning Algori
 
 1. [Linear Regression](Machine-Learning/linearReg.py)
 
+![LinearReg Screenshot](Machine-Learning/LinearRegScreenshot.PNG)
+
 Deep Learning in Python
 ----------------------------
 
