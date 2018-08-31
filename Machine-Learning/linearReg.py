@@ -22,9 +22,13 @@ data_X_test = data_X[-20:]
 data_y_train = diabetes.target[:-20]
 data_y_test = diabetes.target[-20:]
 
-#Creating linear regression object:
-# LinerRegression takes three parameters:
+# LinerRegression takes four parameters, all optional:
+# fit_intercept: If set True, intercept (Location where it intersects an axis) will be used in calculation
+# normalize: Normalizes the regressors
+# copy_X: Prevents overwriting
+# n_jobs=1: Number of Jobs to be used for computation. Default 1. If set to -1, all CPUs will be used.  
 
+# Creating linear regression object:
 linearRegr = linear_model.LinearRegression()
 
 #Training the model using the Training sets:
