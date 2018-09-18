@@ -7,6 +7,12 @@ I am using the scikit-learn library to implement various Machine Learning Algori
 
 ![LinearReg Screenshot](Machine-Learning/LinearRegScreenshot.PNG)
 
+2. [Cost Function](Machine-Learning/CostFunction_LinearReg.py)
+
+3. [Logistic Regression](Machine-Learning/LogisticRegression.py)
+
+![LogisticReg Screenshot](Machine-Learning/LogisticReg.png)
+
 Deep Learning in Python
 ----------------------------
 
